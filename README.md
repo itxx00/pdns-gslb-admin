@@ -1,4 +1,4 @@
-pdns-gslb-backend
+pdns-gslb-admin
 =================
 
-GSLB Backend for PowerDNS
+Admin interface for GSLB PowerDNS Backend
